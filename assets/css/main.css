@@ -1722,7 +1722,7 @@
 			a.special:not(.button):before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
-				font-family: Terminus;
+				font-family: FontAwesome;
 				font-style: normal;
 				font-weight: normal;
 				text-transform: none !important;
@@ -2520,7 +2520,7 @@
 		color: #ffffff !important;
 		cursor: pointer;
 		display: inline-block;
-		font-family: Raleway, Helvetica, sans-serif;
+		font-family: Terminus;
 		font-size: 0.8em;
 		font-weight: 700;
 		height: 3.75em;
@@ -2756,7 +2756,7 @@
 			}
 
 		#header nav {
-			font-family: Raleway, Helvetica, sans-serif;
+			font-family: Terminus;
 			font-size: 0.8em;
 			font-weight: 700;
 			height: 3em;
@@ -2793,7 +2793,7 @@
 					#header nav a[href="#menu"]:before {
 						-moz-osx-font-smoothing: grayscale;
 						-webkit-font-smoothing: antialiased;
-						font-family: Terminus;
+						font-family: FontAwesome;
 						font-style: normal;
 						font-weight: normal;
 						text-transform: none !important;
@@ -2977,7 +2977,7 @@
 					border-radius: 5px;
 					border: 0;
 					display: block;
-					font-family: Raleway, Helvetica, sans-serif;
+					font-family: Terminus;
 					font-size: 0.8em;
 					font-weight: 200;
 					letter-spacing: 0.1em;
@@ -3106,7 +3106,7 @@
 			-ms-filter: blur(0);
 			filter: blur(0);
 			opacity: 1;
-			font-family: Raleway, Helvetica, sans-serif;
+			font-family: Terminus;
 			font-size: 1em;
 			font-weight: 200;
 			letter-spacing: 0.1em;
