@@ -1854,7 +1854,7 @@
 
 	pre {
 		-webkit-overflow-scrolling: touch;
-		font-family: "Courier New", monospace;
+		font-family: Terminus;
 		font-size: 0.9em;
 		margin: 0 0 2em 0;
 	}
@@ -2384,7 +2384,7 @@
 				ul.contact li:before {
 					-moz-osx-font-smoothing: grayscale;
 					-webkit-font-smoothing: antialiased;
-					font-family: Terminus;
+					font-family: FontAwesome;
 					font-style: normal;
 					font-weight: normal;
 					text-transform: none !important;
