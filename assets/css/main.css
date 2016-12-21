@@ -1,4 +1,5 @@
 @import url(font-awesome.min.css);
+@import url(font-terminus.css);
 @import url("https://fonts.googleapis.com/css?family=Raleway:200,700|Source+Sans+Pro:300,600,300italic,600italic");
 
 /*
@@ -1645,7 +1646,7 @@
 
 	body, input, select, textarea {
 		color: #ffffff;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: "Terminus";
 		font-size: 16.5pt;
 		font-weight: 300;
 		line-height: 1.65;
@@ -1710,7 +1711,7 @@
 			text-decoration: none;
 			border-bottom: 0;
 			display: block;
-			font-family: Raleway, Helvetica, sans-serif;
+			font-family: Terminus;
 			font-size: 0.8em;
 			font-weight: 700;
 			letter-spacing: 0.1em;
@@ -1721,7 +1722,7 @@
 			a.special:not(.button):before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
-				font-family: FontAwesome;
+				font-family: Terminus;
 				font-style: normal;
 				font-weight: normal;
 				text-transform: none !important;
@@ -1769,7 +1770,7 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #ffffff;
-		font-family: Raleway, Helvetica, sans-serif;
+		font-family: Terminus;
 		font-weight: 700;
 		letter-spacing: 0.1em;
 		margin: 0 0 1em 0;
@@ -1918,7 +1919,7 @@
 	label {
 		color: #ffffff;
 		display: block;
-		font-family: Raleway, Helvetica, sans-serif;
+		font-family: Terminus;
 		font-size: 0.8em;
 		font-weight: 700;
 		letter-spacing: 0.1em;
@@ -1975,7 +1976,7 @@
 		.select-wrapper:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: FontAwesome;
+			font-family: Terminus;
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
@@ -2049,7 +2050,7 @@
 			input[type="radio"] + label:before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
-				font-family: FontAwesome;
+				font-family: Terminus;
 				font-style: normal;
 				font-weight: normal;
 				text-transform: none !important;
@@ -2149,7 +2150,7 @@
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: FontAwesome;
+			font-family: Terminus;
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
@@ -2383,7 +2384,7 @@
 				ul.contact li:before {
 					-moz-osx-font-smoothing: grayscale;
 					-webkit-font-smoothing: antialiased;
-					font-family: FontAwesome;
+					font-family: Terminus;
 					font-style: normal;
 					font-weight: normal;
 					text-transform: none !important;
@@ -2792,7 +2793,7 @@
 					#header nav a[href="#menu"]:before {
 						-moz-osx-font-smoothing: grayscale;
 						-webkit-font-smoothing: antialiased;
-						font-family: FontAwesome;
+						font-family: Terminus;
 						font-style: normal;
 						font-weight: normal;
 						text-transform: none !important;
@@ -3215,7 +3216,7 @@
 		}
 
 		#wrapper > header p {
-			font-family: Raleway, Helvetica, sans-serif;
+			font-family: Terminus;
 			font-size: 1em;
 			font-weight: 200;
 			letter-spacing: 0.1em;
